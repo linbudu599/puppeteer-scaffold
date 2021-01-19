@@ -1,0 +1,15 @@
+{
+  "name": "Puppeteer-Scaffold",
+  "restartable": "r",
+  "delay": "500",
+  "ignore": [".git", "node_modules/**"],
+  "verbose": true,
+  "execMap": {
+    "": "node",
+    "js": "node --harmony",
+    "ts": "ts-node "
+  },
+  "ext": "js json ts db",
+  "watch": ["/**/*.ts"],
+  "legacy-watch": false
+}
