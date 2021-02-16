@@ -1045,10 +1045,10 @@ puppeteer-extra-plugin-adblocker@^2.11.10:
     node-fetch "^2.6.0"
     puppeteer-extra-plugin "^3.1.8"
 
-puppeteer-extra-plugin-anonymize-ua@^2.2.15:
-  version "2.2.15"
-  resolved "https://registry.yarnpkg.com/puppeteer-extra-plugin-anonymize-ua/-/puppeteer-extra-plugin-anonymize-ua-2.2.15.tgz#4a35c8dfab33ee55328b3dc647fb8cd36fa998b1"
-  integrity sha512-NHO3SqROjbC7KM5KAb/23YAKguwZ8wjsOiFmtW16kqbmLi2QqOsAHsHXS2/h/KS/HnsbnYAFLa80b9NXARXQXQ==
+puppeteer-extra-plugin-anonymize-ua@^2.2.16:
+  version "2.2.16"
+  resolved "https://registry.yarnpkg.com/puppeteer-extra-plugin-anonymize-ua/-/puppeteer-extra-plugin-anonymize-ua-2.2.16.tgz#5200c6f0a58a05aef6fa2b7a70dba4437428ef75"
+  integrity sha512-YKS89esdiIO9TZtecATgZ5Qd6pmwqVANATjiYbTp9BGn9hMXw5yIrhf3yk/YvUbegAmcw9v9xFa7r6ki+9eWgQ==
   dependencies:
     debug "^4.1.1"
     puppeteer-extra-plugin "^3.1.8"
