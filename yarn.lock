@@ -1053,13 +1053,13 @@ puppeteer-extra-plugin-anonymize-ua@^2.2.15:
     debug "^4.1.1"
     puppeteer-extra-plugin "^3.1.8"
 
-puppeteer-extra-plugin-block-resources@^2.2.8:
-  version "2.2.8"
-  resolved "https://registry.yarnpkg.com/puppeteer-extra-plugin-block-resources/-/puppeteer-extra-plugin-block-resources-2.2.8.tgz#55e602bc0187764944b422d760e51aa66169b360"
-  integrity sha512-Gd1MzZpApWtTd9R+I9SAhSIF7r4jvixNlK8S3Ah74iueYugkxArz5an57UHnY86vdcbeADQjPhJDJANUwvRH1g==
+puppeteer-extra-plugin-block-resources@^2.2.9:
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/puppeteer-extra-plugin-block-resources/-/puppeteer-extra-plugin-block-resources-2.2.9.tgz#ce99199372246d32ee86aa9697e8b1492e670c2a"
+  integrity sha512-lBWk6XOGPU7KgpnalPcdRJJigZHYkWc3+evDXVIV2TQWO45HVcyVVDXIOx5Vh6buL4yQ4IEUodIVSrgINGfeCg==
   dependencies:
     debug "^4.1.1"
-    puppeteer-extra-plugin "^3.1.8"
+    puppeteer-extra-plugin "^3.1.9"
 
 puppeteer-extra-plugin-stealth@^2.6.6:
   version "2.6.6"
@@ -1073,6 +1073,15 @@ puppeteer-extra-plugin@^3.1.8:
   version "3.1.8"
   resolved "https://registry.yarnpkg.com/puppeteer-extra-plugin/-/puppeteer-extra-plugin-3.1.8.tgz#746dbe80c5acab50d27f97cf07e384c7d8b880a5"
   integrity sha512-bTKhY0q+T3qM59fcdKnxwlT+KA1XpKKb8vUxFtd7PH/TGA04AOO+WQJx9npU1nA4NXZKU2xs2KZNn/A+1Cachw==
+  dependencies:
+    "@types/debug" "^4.1.0"
+    debug "^4.1.1"
+    merge-deep "^3.0.1"
+
+puppeteer-extra-plugin@^3.1.9:
+  version "3.1.9"
+  resolved "https://registry.yarnpkg.com/puppeteer-extra-plugin/-/puppeteer-extra-plugin-3.1.9.tgz#0c8e3e17ee01e6311bbe32b696864ea3699bdedf"
+  integrity sha512-LYKj+3wGsnBzwEIpTertyOkzjcTHJn96FDSFXQ4Oo38CFFRw1qRBAJPPtAaMVjuVDqATeNd/RpP4n5jbxeX90g==
   dependencies:
     "@types/debug" "^4.1.0"
     debug "^4.1.1"
