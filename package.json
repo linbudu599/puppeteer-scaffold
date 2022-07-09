@@ -9,7 +9,7 @@
     "puppeteer-cluster": "^0.22.0",
     "puppeteer-extra": "^3.1.16",
     "puppeteer-extra-plugin-adblocker": "^2.11.10",
-    "puppeteer-extra-plugin-anonymize-ua": "^2.2.15",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.4",
     "puppeteer-extra-plugin-block-resources": "^2.2.8",
     "puppeteer-extra-plugin-stealth": "^2.6.6",
     "typescript": "^4.1.3"
