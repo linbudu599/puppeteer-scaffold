@@ -129,10 +129,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/puppeteer@^5.4.2":
-  version "5.4.2"
-  resolved "https://registry.yarnpkg.com/@types/puppeteer/-/puppeteer-5.4.2.tgz#80f3a1f54dedbbf750779716de81401549062072"
-  integrity sha512-yjbHoKjZFOGqA6bIEI2dfBE5UPqU0YGWzP+ipDVP1iGzmlhksVKTBVZfT3Aj3wnvmcJ2PQ9zcncwOwyavmafBw==
+"@types/puppeteer@^5.4.7":
+  version "5.4.7"
+  resolved "https://registry.yarnpkg.com/@types/puppeteer/-/puppeteer-5.4.7.tgz#b8804737c62c6e236de0c03fa74f91c174bf96b6"
+  integrity sha512-JdGWZZYL0vKapXF4oQTC5hLVNfOgdPrqeZ1BiQnGk5cB7HeE91EWUiTdVSdQPobRN8rIcdffjiOgCYJ/S8QrnQ==
   dependencies:
     "@types/node" "*"
 
